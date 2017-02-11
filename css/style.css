@@ -1,0 +1,27 @@
+
+
+
+.navbar-header a{
+
+	color: #fff !important;
+}
+
+.nav li a{
+
+	text-transform: uppercase;
+	font-size: 13px;
+	color: #fff !important;
+}
+
+
+/* breadcrumb */
+.breadcrumb li a:hover{
+
+	text-decoration: none;
+}
+/* breadcrumb */
+
+.space{
+
+	padding-bottom: 6px;
+}
